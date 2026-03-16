@@ -1,104 +1,132 @@
-<div align="center">
+<p align="center">
+  <img src=".gemini/antigravity/brain/037cf56e-f3c6-4eb3-9c04-cf287e7c0529/anima_chroma_banner_1773638688601.png" alt="Anima Chroma Banner" width="100%"/>
+</p>
 
-# ANIMA CHROMA
+<h1 align="center">✦ Anima Chroma ✦</h1>
 
-### ✦ Diseño que se siente ✦
+<p align="center">
+  <strong>Estudio de diseño digital — Mendoza, Argentina</strong><br>
+  <em>Diseño que se siente.</em>
+</p>
 
-Portfolio web de diseño de interiores — interiorismo brutalista y atmósferas inmersivas.
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](#)
-[![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=for-the-badge&logo=googlefonts&logoColor=white)](#)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white" alt="Google Fonts"/>
+  <img src="https://img.shields.io/badge/Responsive-Mobile%20First-ec5b13?style=flat-square" alt="Responsive"/>
+</p>
 
 ---
 
-## 📋 Descripción
+## 📖 Descripción
 
-**Anima Chroma** es un portfolio web profesional para un estudio de diseño de interiores ubicado en Mendoza, Argentina. El sitio presenta un diseño oscuro premium con acentos en naranja, tipografía display elegante y efectos visuales cinematográficos.
+**Anima Chroma** es el sitio web de un estudio de diseño digital con sede en Mendoza, Argentina. El proyecto presenta un portfolio profesional con un diseño visual impactante, tipografía orgánica y una estética dark mode cuidadosamente elaborada.
+
+El sitio transmite la filosofía del estudio: crear experiencias digitales que se **sienten**, combinando arte y funcionalidad en cada detalle.
 
 ---
 
-## 📁 Estructura del proyecto
+## ✨ Características
+
+| Característica | Descripción |
+|---|---|
+| 🎨 **Dark Mode** | Diseño oscuro premium con paleta cálida basada en tonos tierra y naranja |
+| 🖋️ **Tipografía Orgánica** | Combinación de *Instrument Serif* (display) y *Outfit* (cuerpo) |
+| 📱 **Responsive** | Adaptación completa a dispositivos móviles, tablets y escritorio |
+| 🪟 **Glassmorphism** | Efectos de vidrio esmerilado en la navegación y tarjetas |
+| 🧭 **Navegación Fija** | Header transparente con blur que acompaña al scroll |
+| 📬 **Formulario de Contacto** | Página dedicada con formulario estilizado y datos de contacto |
+| ⚡ **Hero Dinámico** | Sección hero a pantalla completa con fondo visual inmersivo |
+
+---
+
+## 🗂️ Estructura del Proyecto
 
 ```
-anima-chroma/
-│
-├── portfolio.html       → Página principal (hero, proyectos, filosofía, CTA)
-├── contacto.html        → Página de contacto con formulario
-└── README.md
+IA CODERRRR/
+├── portfolio.html    # Página principal — Hero, Proyectos, Filosofía
+├── contacto.html     # Página de contacto — Formulario y datos
+└── README.md         # Este archivo
 ```
 
 ---
 
-## ✨ Características principales
+## 🎨 Paleta de Colores
 
-- 🌑 **Dark mode** por defecto con paleta naranja `#ec5b13` sobre fondo `#221610`
-- 🖼️ **Efectos hover cinematográficos** en las imágenes de proyectos (escala, rotación, overlay)
-- 📌 **Navegación fija** con efecto glassmorphism (backdrop-blur)
-- 🔤 **Tipografía premium**: Instrument Serif (display) + Outfit (body)
-- 📬 **Formulario de contacto** con diseño integrado
-- 📱 **Responsive**: adaptado a escritorio y móvil
-- ⚡ **Sin dependencias de build**: funciona directo en el navegador
+| Color | Hex | Uso |
+|---|---|---|
+| 🟠 **Primary** | `#ec5b13` | Acentos, CTAs, interacciones |
+| ⬛ **Background Dark** | `#221610` | Fondo principal (dark mode) |
+| ⬜ **Background Light** | `#f8f6f6` | Fondo alternativo (light mode) |
 
 ---
 
-## ⚙️ Stack tecnológico
+## 🛠️ Tecnologías
 
-| Tecnología | Uso |
-| :--- | :--- |
-| **HTML5** | Estructura semántica |
-| **Tailwind CSS** (CDN) | Estilos, layout y responsive |
-| **Google Fonts** | Instrument Serif + Outfit |
-| **Material Symbols** | Iconografía |
-
----
-
-## 🚀 Instalación y uso local
-
-```bash
-# 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/anima-chroma.git
-
-# 2. Ingresar al directorio
-cd anima-chroma
-
-# 3. Abrir en el navegador
-start portfolio.html
-```
-
-> **Tip:** También podés usar la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) en VS Code para desarrollo con recarga automática.
+- **HTML5** — Estructura semántica
+- **Tailwind CSS** (CDN) — Framework de utilidades CSS
+- **Google Fonts** — Instrument Serif & Outfit
+- **Material Symbols** — Iconografía de Google
+- **CSS Custom** — Glassmorphism y efectos personalizados
 
 ---
 
-## 🌐 Deploy con GitHub Pages
+## 🚀 Inicio Rápido
 
-Para publicar el sitio online:
+1. **Clonar el repositorio**
+   ```bash
+   git clone https://github.com/tu-usuario/anima-chroma.git
+   ```
 
-1. Subí el código a un repositorio en GitHub
-2. Andá a **Settings → Pages**
-3. En **Source**, seleccioná **Deploy from a branch**
-4. Elegí la rama `main` y la carpeta `/ (root)`
-5. Hacé clic en **Save**
+2. **Abrir en el navegador**
+   ```bash
+   cd anima-chroma
+   # Abrir portfolio.html directamente en tu navegador
+   # o usar un servidor local:
+   npx serve .
+   ```
 
-En unos minutos tu sitio estará disponible en:
+> [!NOTE]
+> No requiere proceso de build ni instalación de dependencias. Tailwind CSS se carga directamente desde CDN.
 
-```
-https://tu-usuario.github.io/anima-chroma/portfolio.html
-```
+---
+
+## 📄 Páginas
+
+### 🏠 Portfolio (`portfolio.html`)
+Página principal del estudio con las siguientes secciones:
+- **Hero** — Presentación a pantalla completa con imagen de fondo
+- **Proyectos** — Galería de trabajos del estudio
+- **Filosofía** — Visión y valores del equipo creativo
+
+### 📬 Contacto (`contacto.html`)
+Página de contacto con:
+- Formulario interactivo (nombre, email, mensaje)
+- Información de contacto (email y ubicación)
+- Efectos visuales de fondo con gradientes animados
 
 ---
 
 ## 📬 Contacto
 
-✉️ **Email:** aglv.disinteriores@gmail.com
-📍 **Ubicación:** Mendoza, Argentina
+<p align="center">
+  <a href="mailto:aglv.disinteriores@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aglv.disinteriores%40gmail.com-ec5b13?style=for-the-badge&logo=gmail&logoColor=white&labelColor=221610" alt="Email"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/📍_Mendoza,_Argentina-221610?style=for-the-badge" alt="Ubicación"/>
+</p>
 
 ---
 
-<div align="center">
+## 📝 Licencia
 
-**© 2025 Anima Chroma** — Todos los derechos reservados.
+Este proyecto es de uso privado. Todos los derechos reservados © 2026 **Anima Chroma**.
 
-</div>
+---
+
+<p align="center">
+  <strong>Anima Chroma</strong> · Diseño que se siente<br>
+  <sub>Hecho con 🧡 en Mendoza, Argentina</sub>
+</p>
